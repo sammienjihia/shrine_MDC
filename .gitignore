@@ -6,3 +6,4 @@
 .sqlite3
 */*/*.png
 /venv/
+/node_modules/
