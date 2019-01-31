@@ -1,0 +1,8 @@
+*/*.pyc
+*/migrations/*
+!*/migrations/__init__.py
+.env
+.idea
+.sqlite3
+*/*/*.png
+/venv/
